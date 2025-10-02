@@ -1,2 +1,2 @@
 # jvm
-first week programming in java assignment
+All week programming in java assignments
